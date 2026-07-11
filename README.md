@@ -1,2 +1,3 @@
 # blinkit-sales-orderanalysis
-An end-to-end Blinkit Sales Analysis project using Power BI, Python, and Excel to analyze sales performance, customer behavior, delivery metrics, and business KPIs through an interactive dashboard.
+
+Blinkit Sales Analysis is an end-to-end data analytics project designed to analyze Blinkit's sales performance, customer behavior, order trends, and delivery efficiency. The project involves data cleaning and exploratory data analysis (EDA) using Python (Pandas) and the development of an interactive Power BI dashboard to visualize key business metrics. The dashboard provides insights into Total Sales, Total Orders, Average Order Value, Average Delivery Time, Customer Analysis, and Top-Selling Categories, enabling data-driven business decisions. This project demonstrates practical skills in data preprocessing, DAX, data modeling, visualization, and business intelligence.
